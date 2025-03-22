@@ -59,4 +59,3 @@ Projeyi çalıştırmak için:
 ```bash
 git clone https://github.com/aysenurgulsum/air_quality_health_impact_analysis.git
 cd air_quality_health_impact_analysis
-pip install -r requirements.txt
