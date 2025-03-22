@@ -57,6 +57,6 @@ Veri seti bir `.csv` dosyası şeklinde olup toplam **5811 kayıt** içermektedi
 Projeyi çalıştırmak için:
 
 ```bash
-git clone https://github.com/aysenurgulsum/hava-kalitesi-analiz.git
-cd hava-kalitesi-analiz
+git clone https://github.com/aysenurgulsum/air_quality_health_impact_analysis.git
+cd air_quality_health_impact_analysis
 pip install -r requirements.txt
